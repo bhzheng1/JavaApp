@@ -1,3 +1,1 @@
 # InterviewQuestions
-
-Antra Interview Questions
